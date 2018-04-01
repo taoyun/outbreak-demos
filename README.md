@@ -4,7 +4,7 @@ Visualizations of behavioral outbreak models
 #### social-distancing_1d-2i.mp4
 Social distancing of 2 carrier individuals in response to local density of respectively observed infection, \psi. \phi refers to the probability distribution of individual carrier space use. Over time, they segregate from each other; simultaneously, sympotomatic infection becomes prevalent near the center of the 1D landscape.
 
-#### social-distancing_1d-4i.mp4
+#### social-distancing_2d-4i.mp4
 Social distancing of 4 carrier indivdiuals in response to local density of respectively observed infection. The behavioral responses are identical to the above model except the equations here operate in 2-dimensional space. Red lines denote the contour maps of individual carrier space use. The color density gradient shows the density of symptomatic patients on the landscape.
 
 #### movement-barriers.mp4
