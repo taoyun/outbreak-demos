@@ -2,10 +2,10 @@
 Visualizations of behavioral outbreak models
 
 #### social-distancing_1d-2i.mp4
-Social distancing (including territorial separation) of 2 groups of indivdiuals in response to local host-generated deterrents (e.g., scent marks, new infections), \psi. \phi refers to the probability distribution of individual group space use. Over time, they segregate from each other; simultaneously, transmission risk surges near the center of the one-dimensional landscape.
+Social distancing (also territorial separation) of 2 groups of indivdiuals in response to local host-generated deterrents (e.g., scent marks, new infections), \psi. \phi refers to the probability distribution of individual group space use. Over time, they segregate from each other; simultaneously, transmission risk surges near the center of the one-dimensional landscape.
 
 #### social-distancing_2d-4i.mp4
-Social distancing (including territorial separation) of 4 groups of indivdiuals in response to local host-generated deterrents (e.g., scent marks, new infections). The behavioral responses are identical to the above model except the equations here operate in two-dimensional space. Red lines denote the contour maps of individual group space use. The color density gradient shows the time-varying hotspots.
+Social distancing (also territorial separation) of 4 groups of indivdiuals in response to local host-generated deterrents (e.g., scent marks, new infections). The behavioral responses are identical to the above model except the equations here operate in two-dimensional space. Red lines denote the contour maps of individual group space use. The color density gradient shows the time-varying hotspots.
 
 #### movement-barriers.mp4
 Temporally solving a 2-dimensional Fokker-Planck equation of individual movement in response to multiple randomly distributed landscape barriers. Movement is governed by a point attractor located at the top of the landscape. The color density gradient denotes the probability density of the individual's space use.
